@@ -1,3 +1,6 @@
+> **Note:**
+> The `set_hostname.sh` script, located in `SD_ROOT/wz_mini/set_hostname.sh`, is used to set a custom hostname for your camera during boot. You can enable and customize this behavior by editing the `CUSTOM_SCRIPT_PATH` option in your `wz_mini.conf` file. By default, the script is set to run automatically if you uncomment and configure the relevant line. This helps you easily identify your device on your local network.
+
 # wz_mini_hacks
 ### Ingenic based T20/T31 based devices only!
 
